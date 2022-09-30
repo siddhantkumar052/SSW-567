@@ -6,6 +6,3 @@ python:
 script:
  - python -m unittest TestTriangle
 
- branches:
-  only:
-    - SSW-567/HW-02b
