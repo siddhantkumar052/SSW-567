@@ -2,7 +2,7 @@
 Name: Siddhantkumar Maske
 Cwid:20006862
 Subject: SSW 567
-HW 02a - Testing a legacy program and reporting on testing results
+HW HW 02b Continuous Integration - Classify Triangle
 """
 import unittest
 from Triangle import classifyTriangle
